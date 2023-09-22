@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\cs\\InduMovel\\InduMovel.csproj": {}
+    "c:\\dev\\cs\\InduMovel\\InduMovel.csproj": {}
   },
   "projects": {
-    "C:\\dev\\cs\\InduMovel\\InduMovel.csproj": {
+    "c:\\dev\\cs\\InduMovel\\InduMovel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\cs\\InduMovel\\InduMovel.csproj",
+        "projectUniqueName": "c:\\dev\\cs\\InduMovel\\InduMovel.csproj",
         "projectName": "InduMovel",
-        "projectPath": "C:\\dev\\cs\\InduMovel\\InduMovel.csproj",
+        "projectPath": "c:\\dev\\cs\\InduMovel\\InduMovel.csproj",
         "packagesPath": "C:\\Users\\Aluno Dev.ESN901N1266142\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\cs\\InduMovel\\obj\\",
+        "outputPath": "c:\\dev\\cs\\InduMovel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno Dev.ESN901N1266142\\AppData\\Roaming\\NuGet\\NuGet.Config"
